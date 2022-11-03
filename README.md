@@ -1,6 +1,5 @@
 ### Hi there 👋
 This was my first repository
-This is my first commit as well as preview 
 
 <!--
 **layaranjith/layaranjith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
